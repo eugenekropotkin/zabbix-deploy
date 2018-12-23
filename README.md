@@ -4,4 +4,4 @@ Initial deploy for zabbix courses (not only for courses)
 
 - wui
 - zabbix server
-- database
+- database (postgres, partitioned)
